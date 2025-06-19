@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 个人介绍
 ------   
@@ -23,15 +15,6 @@ Getting started
 实验室介绍
 ------    
 张鲁嘉课题组（Lujia Lab）于2016年11月依托”华东师范大学化学与分子工程学院“与“纽约大学（上海）理论与计算化学中心”建立，研究方向聚焦于酶、蛋白材料等功能性生物大分子的动态分子机制解析、智能化精准设计及产业应用开发。课题组以合成生物学及绿色生物制造的“芯片”级核心-酶等为研究对象；通过结晶(x-ray衍射)及冷冻电镜等手段解析生物过程的原子精度结构基础；通过QM、MD等计算手段阐明量子精度的动态分子机制；开发AI驱动的酶分子智能化设计平台并搭建全新生物催化元件数据库；面向化工、生物医药、轻工食品等重大产业领域的开展定向设计和应用开发。课题组致力于攻克多尺度-复杂体系-动态过程交织的科学难题，拓展的功能性生物大分子的设计边界。
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
