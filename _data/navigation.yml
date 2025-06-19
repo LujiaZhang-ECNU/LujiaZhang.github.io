@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://www.lujialab.org.cn/chengguo.html
     
   - title: "CV"
     url: /cv/
