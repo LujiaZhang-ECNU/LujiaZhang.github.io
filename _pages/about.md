@@ -7,13 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+个人介绍
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+    张鲁嘉，华东师范大学化学与分子工程学院教授、博士生导师，上海市东方英才，纽约大学(上海)理论与计算化学中心核心成员、兼职教授，上海市分子治疗与新药创制工程技术中心副主任，美国加州理工学院生物工程与技术系博士后，中国食品学会酶制剂分会理事、风味委员会委员，全国技术产品文件标准化技术委员会。主要研究方向是酶等功能性生物大分子的结构机制解析、理性设计及应用开发。张鲁嘉教授团队是国内最早开展酶分子精准设计的团队之一，其主要学术贡献是：面向绿色化学与合成生物学领域“芯片级”核心原件-高性能酶缺乏的重大问题，针对工业酶分子改造中“精准模拟”和“高效设计”两大关键科学问题，率先提出了“基于近进攻态的高效计算设计”理论，这一理论目前已经成为酶分子计算设计的主流思想之一。基于这一思想建立了干湿实验结合的“S.M.A.R.T.”（Structure, Mechanism, AI, Rational Design, Test）高性能酶分子智能设计平台，已经成为国际领先的高效酶分子设计体系。在PNAS、Biomaterials等高水平杂志发表SCI论文70余篇，总引用次数超过1300余次，单篇最高100余次，设计的多个高性能工业酶走向已经走向产业化，为国家创造巨大效益，先后获得省部级一等奖3项，二等奖2项。
 
 Getting started
 ======
